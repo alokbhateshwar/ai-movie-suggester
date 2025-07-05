@@ -2,6 +2,8 @@
 
 A modern Streamlit web app that recommends movies based on your selection using content-based filtering.
 
+live :-https://ai-movie-suggester.streamlit.app/
+
 ## Features
 - Select a movie and get 5 similar recommendations
 - Clean, modern UI/UX
